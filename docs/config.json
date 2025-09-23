@@ -1,16 +1,11 @@
 {
   "min_supported_version": 1,
   "ads_enabled": false,
-
   "message": {
-    "id": "2025-09-baja-programada",
-    "text": "Hoy a las 20:00 h habrá una breve parada de servicio.",
-    "type": "info",             // "info" | "important"
-    "start_at": "2025-09-20T10:00:00Z",
-    "end_at": "2025-09-21T10:00:00Z",
-    "once_per_day": true,       // solo para "info"
-    "once_until_dismissed": true // solo para "important"
+    "id": "mvp-info-1",
+    "text": "Hola 👋 Probando mensaje INFO.",
+    "type": "info",
+    "once_per_day": true
   },
-
   "maintenance_mode": false
 }
