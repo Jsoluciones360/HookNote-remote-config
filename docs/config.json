@@ -1,5 +1,5 @@
 {
-  "min_supported_version": 1,
+  "min_supported_version": 9999,
   "ads_enabled": false,
   "message": {
     "id": "mvp-info-1",
