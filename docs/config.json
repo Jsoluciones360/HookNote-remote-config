@@ -10,7 +10,7 @@
     "id": "mvp-info-1",
     "text": "Hola 👋 Probando mensaje INFO 2.",
     "type": "info",
-    "once_per_day": true
+    "once_per_day": false
   },
   "maintenance_mode": false
 }
